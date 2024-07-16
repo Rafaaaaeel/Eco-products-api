@@ -1,0 +1,71 @@
+{
+    "products": 
+    [
+        {
+            "name": "Geladeira Brastemp 4 portas",
+            "price": 24.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Fogão 4 bocas",
+            "price": 40.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Fogão 5 bocas",
+            "price": 240.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Cooktop 4 bocas",
+            "price": 124.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Frigideira",
+            "price": 224.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Panela de pressão",
+            "price": 624.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Garfo",
+            "price": 4.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Faca",
+            "price": 2.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Colher",
+            "price": 3.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Esponja",
+            "price": 1.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        },
+        {
+            "name": "Kit talheres",
+            "price": 6.94,
+            "historyPrice": 32.90,
+            "discountPercentage": 12.0
+        }
+    ]
+}
